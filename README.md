@@ -50,16 +50,40 @@
 
 ---
 
-## 📊 GitHub Stats
+---
+
+## 📊 GitHub Stats & Core Languages
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Emad-Farag?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Africa%2FCairo" alt="Emad's GitHub Stats" width="100%" />
+  <!-- كارت إحصائيات عامة فائق الثبات من خادم مستقر -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Emad-Farag&show_icons=true&theme=radial&rank_icon=github" alt="Emad's GitHub Stats" width="70%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emad-Farag&theme=radial" width="48%" alt="Most Committed Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emad-Farag&theme=radial" width="48%" alt="GitHub Profile Summary Stats" />
-</p>
+### 🛠️ Proficiency Breakdown
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%">
+      <b>Python / Django / Frappe Framework</b>
+      <img src="https://geps.dev/progress/90?dangerColor=ff0000&warningColor=ffc107&successColor=0082CD" alt="Python Progress" />
+    </td>
+    <td width="50%">
+      <b>React.js / JavaScript</b>
+      <img src="https://geps.dev/progress/80?dangerColor=ff0000&warningColor=ffc107&successColor=61DAFB" alt="React Progress" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>PostgreSQL / MySQL</b>
+      <img src="https://geps.dev/progress/85?dangerColor=ff0000&warningColor=ffc107&successColor=336791" alt="Databases Progress" />
+    </td>
+    <td width="50%">
+      <b>Git & Software Architecture</b>
+      <img src="https://geps.dev/progress/85?dangerColor=ff0000&warningColor=ffc107&successColor=F05032" alt="Git Progress" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🤝 Connect with Me
