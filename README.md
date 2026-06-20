@@ -53,13 +53,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Emad-Farag&show_icons=true&theme=radial&rank_icon=github" alt="Emad's GitHub Stats" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emad-Farag&theme=radial" alt="Emad's Streak Stats" width="48%" />
+  <img src="https://metrics.lecoq.io/Emad-Farag?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Africa%2FCairo" alt="Emad's GitHub Stats" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Emad-Farag&layout=compact&theme=radial&langs_count=6" alt="Emad's Top Languages" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emad-Farag&theme=radial" width="48%" alt="Most Committed Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emad-Farag&theme=radial" width="48%" alt="GitHub Profile Summary Stats" />
 </p>
 ---
 
